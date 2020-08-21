@@ -1,0 +1,12 @@
+.one{
+    
+    border: 1px solid black;
+    text-align-last: center;
+    
+
+}
+#two{
+
+    display: grid;
+    grid-auto-columns: auto;
+}
